@@ -14,4 +14,7 @@
 * Non-Evasive, could also use responder in analyze mode or wireshark for evasive tests
 
 # 3. sessCollect.sh 
-* [sessCollect](https://github.com/oza51413/Bash-Scripts/blob/main/sessCollect.sh) 
+* [sessCollect](https://github.com/oza51413/Bash-Scripts/blob/main/sessCollect.sh)
+* Automates the collection of sessionId,session, and session.sig cookie values for newly registered users 
+* Context: INE CTF WebStrike Overload
+* CWE: Broken Access Control, IDOR, Node.js Express Middleware 
