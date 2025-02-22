@@ -9,4 +9,9 @@
   * Rubber Ducky to automatically wget the script and run it (hardcoded token required)
  
 # 2. networkEnum.sh  
-* [networkEnum](https://github.com/oza51413/Bash-Scripts/blob/main/networkEnum.sh)  
+* [networkEnum](https://github.com/oza51413/Bash-Scripts/blob/main/networkEnum.sh)
+* If dropped into a network, discover network interfaces, discover live hosts, and conduct a simple port scan
+* Non-Evasive, could also use responder in analyze mode or wireshark for evasive tests
+
+# 3. sessCollect.sh 
+* [sessCollect](https://github.com/oza51413/Bash-Scripts/blob/main/sessCollect.sh) 
