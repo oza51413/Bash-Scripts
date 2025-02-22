@@ -1,5 +1,6 @@
 #!/usr/bin/bash
 
+# Author: 022y(oza51413)
 # Description: Automates the collection of sessionId,session, and session.sig cookie values for newly registered users
 # Context: INE CTF WebStrike Overload	
 
